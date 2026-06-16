@@ -6,9 +6,9 @@
 <br/>
 
 <!-- Live Badges Row -->
-![Stars](https://img.shields.io/github/stars/AravDakshZen/github-profile-badges?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/AravDakshZen/github-profile-badges?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-orange?style=for-the-badge&logo=github&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/AravDakshZen/github-badges?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/AravDakshZen/github-badges?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-orange?style=for-the-badge&logo=github&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=0d1117)
 ![Badges](https://img.shields.io/badge/Total%20Badges-11-blueviolet?style=for-the-badge&labelColor=0d1117)
 
